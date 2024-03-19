@@ -1,0 +1,162 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.bg {
+    background-image: url('../images/Untitled.png');
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.search {
+    color: white;
+    background-color: #27592D;
+    font-size: 1rem;
+    padding-left: 5px;
+    width: 53%;
+}
+
+.xxx {
+    max-height: 80px;
+    overflow: auto;
+}
+
+.text {
+    position: absolute;
+    width: 900px;
+    height: 200px;
+    top: 15%;
+    left: 5%;
+    /* font-size: 5rem; */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.text h2{
+    font-size: 2.5rem;
+    font-weight: 550;
+}
+.text1 {
+    position: absolute;
+    width: 900px;
+    top: 45%;
+    left: 5%;
+    font-size: 1.5rem;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.text2 {
+    position: absolute;
+    width: 800px;
+    top: 55%;
+    left: 5%;
+    font-size: 1.5rem;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text3 {
+    position: absolute;
+    width: 800px;
+    top: 72%;
+    left: 5%;
+    font-size: 1.5rem;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text4 {
+    position: absolute;
+    width: 800px;
+    top: 84%;
+    left: 5%;
+    font-size: 1.5rem;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box1 {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    background: #27592D;
+    top: 18%;
+    left: 60%;
+    text-align: center;
+    color: white;
+}
+
+.box {
+    position: absolute;
+    top: 20%;
+    left: 60%;
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+}
+
+.box2 {
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    background: #27592D;
+    top: 70%;
+    left: 60%;
+    text-align: center;
+    color: white;
+}
+
+.box3 {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    background: #27592D;
+    top: 18%;
+    left: 80%;
+    text-align: center;
+    color: white;
+}
+
+.box4 {
+    position: absolute;
+    width: 300px;
+    height: 130px;
+    background: #27592D;
+    top: 70%;
+    left: 80%;
+    text-align: center;
+    color: white;
+}
+
+.id1 {
+    position: absolute;
+    color: black;
+    font-size: 2rem;
+    font-weight: 800;
+    top: 10%;
+    left: 66%;
+}
+
+.id2 {
+    position: absolute;
+    color: black;
+    font-size: 2rem;
+    font-weight: 800;
+    top: 10%;
+    left: 86%;
+}
+
+.team1 {
+    position: absolute;
+    color: white;
+    top: 25%;
+    left: 62%;
+}

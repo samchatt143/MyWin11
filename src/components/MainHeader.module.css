@@ -1,0 +1,73 @@
+.main-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 13%;
+  height: 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  padding-top: 10px;
+  flex-basis: 730px;
+  z-index: 2;
+  font-family: "Madimi One", sans-serif;
+  font-size: large;
+  background: #0B2B26;
+}
+.main2-header {
+  position: fixed;
+  top: 0;
+  left: 165px;
+  width: 72%;
+  height: 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  padding-top: 10px;
+  flex-basis: 730px;
+  z-index: 2;
+  font-family: "Madimi One", sans-serif;
+  font-size: large;
+  background: #0B2B26;
+}
+
+.main-header h1 {
+  color: white;
+  font-size: 1.5rem;
+  left: 0px;
+}
+
+.secondary-header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 2.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem;
+  padding-top: 10px;
+  z-index: 2;
+  flex-basis: 730px;
+  background: #0B2B26;
+  justify-content: flex-end;
+  gap: 40px;
+  font-family: "Madimi One", sans-serif;
+  font-size: small;
+}
+.secondary-header a:link {
+  color: #0B2B26;
+}
+.secondary-header a:visited {
+  color: #0B2B26;
+}
+
+.secondary-header h2 {
+  color: white;
+  font-size: 1rem;
+}
+.img{
+  padding-bottom: 40px;
+}

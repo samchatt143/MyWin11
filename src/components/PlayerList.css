@@ -1,0 +1,57 @@
+.boxanu {
+    position: absolute;
+    max-height: 430px;
+    background: #27592D;
+    top: 24%;
+    left: 49%;
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+    overflow: auto;
+}
+
+.boxsam {
+    position: absolute;
+    max-height: 430px;
+    max-width: 250px;
+    background: #27592D;
+    top: 24%;
+    left: 69%;
+    text-align: center;
+    color: white;
+    margin-left: 200px;
+    overflow: auto;
+}
+
+.final {
+    background-color: rgb(0, 133, 126);
+    font: inherit;
+    color: white;
+    border: 4px solid #27592D;
+    padding: 0.5rem 1.5rem;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 300px;
+}
+
+.show {
+    background-color: rgb(0, 133, 126);
+    position: relative;
+    font: inherit;
+    color: black;
+    border: 4px solid #27592D;
+    padding: 0.5rem 1.5rem;
+    border-radius: 12px;
+    cursor: pointer;
+    margin-top: 320px;
+    margin-left: 1150px;
+    z-index: 3;
+}
+
+.showPlayers:hover{
+    background-color: #d2fcb7;
+    color: #000;
+    border-color: black;
+    /* box-shadow: ; */
+    box-sizing: border-box;
+}
