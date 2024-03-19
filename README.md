@@ -2,7 +2,7 @@
 
 MyWin11 is a web application where you can come with your pair of playing 11s and we run pre-trained ML models to predict the best possible Fantasy 11. It's time to win big.<br/>
 
-![](https://github.com/shreyan-naskar/MyWin11/blob/main/src/images/TeamSelect.png)
+![](https://github.com/shreyan-naskar/MyWin11/blob/main/src/images/HomePage.png)
 
 ## 🔗 App Link
 
